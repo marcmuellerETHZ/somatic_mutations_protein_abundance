@@ -10,3 +10,6 @@ Creates new directory "data_computed/data_processing_[current_datetime]" with pr
 data_viz.ipynb:  
 Draws on processed data in "data_computed/data_processing_[current_datetime]" (adjust folder name in code)  
 Creates new directory "data_computed/data_processing_[current_datetime]/figures" with (partial) figures
+
+r_alluvial_plot.ipynb:  
+R script for the alluvial plot comparing FoldX and AlphaMissense classifications
