@@ -4,7 +4,7 @@ Raw data is available at:
 https://drive.google.com/file/d/1Qz5ce_J9k5ZxSgxfR_c1NQwrRdJxG9oD/view?usp=drive_link
 
 data_processing.ipynb:  
-Draw on raw data  
+Draws on raw data  
 Creates new directory "data_computed/data_processing_[current_datetime]" with processed data
 
 data_viz.ipynb:  
