@@ -8,7 +8,7 @@ Draws on raw data
 Creates new directory "data_computed/data_processing_[current_datetime]" with processed data for each time the script is run
 
 data_viz.ipynb:  
-Draws on processed data in "data_computed/data_processing_[current_datetime]"
+Draws on processed data in "data_computed/data_processing_[current_datetime]"  
 Adjust the folder name in the second cell of the notebook to match the name of your directory containing the processed files  
 Creates new directory "data_computed/data_processing_[current_datetime]/figures" with (partial) figures
 
