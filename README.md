@@ -15,5 +15,5 @@ Creates new directory "data_computed/data_processing_[current_datetime]/figures"
 r_alluvial_plot.ipynb:  
 R script for the alluvial plot comparing FoldX and AlphaMissense classifications
 
-summary_statistics.ipynb:
+summary_statistics.ipynb:  
 Creates all summary statistics mentioned throughout the paper
